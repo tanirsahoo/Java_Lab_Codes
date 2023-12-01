@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2ce5ae98-f666-472f-bca9-cf2cefe8c006" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/Call_by_value_call_by_reference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/Object_as_Parameter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/method_overloading_code_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static_keyword/Nested_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Static_keyword/Nested_class.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
