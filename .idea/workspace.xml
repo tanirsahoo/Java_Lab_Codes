@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="2ce5ae98-f666-472f-bca9-cf2cefe8c006" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static_keyword/complex_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Static_keyword/complex_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/Call_by_value_call_by_reference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/Object_as_Parameter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/method_overloading_code_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Static_keyword/Nested_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Static_keyword/Nested_class.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Java Programming/Java_Lab_Codes"
+    "last_opened_file_path": "C:/Java Programming/Practice_Codes"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

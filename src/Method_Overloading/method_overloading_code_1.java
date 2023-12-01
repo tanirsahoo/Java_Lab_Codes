@@ -1,4 +1,4 @@
-package Inheritance;
+package Method_Overloading;
 import java.util.Scanner ;
 public class method_overloading_code_1 {
         void check_date(){
