@@ -6,7 +6,7 @@ public class SwingDemo {
         JFrame obj = new JFrame("Tanir Sahoo");
         obj.setSize(275, 100);
         obj.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        JLabel x = new JLabel("Hell World") ;
+        JLabel x = new JLabel("FUCK THIS WORLD") ;
         obj.add(x) ;
         obj.setVisible(true);
     }
